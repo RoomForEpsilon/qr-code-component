@@ -16,6 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+![Screenshot of my QR code component](./images/screenshot.jpg)
+
 The intent for this project is for me to learn semantic HTML and simple CSS.  It's a simple page that contains a QR code with information about it.  Figuring out how the box model calculated content, padding, and margin wasn't as easy as I initially hoped.  I sunk a lot of time into this, but I learned a lot, and I hope to be able to use what I learned to grow into a better developer.
 
 ### Links
