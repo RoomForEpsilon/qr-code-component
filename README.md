@@ -46,6 +46,10 @@ I'd like to know if I can improve my design to make it more responsive, along wi
 
 ### Useful resources
 
+I found this article useful for understanding web fonts https://fonts.google.com/knowledge/using_type/using_web_fonts .
+
+I also found using the clamp method a good way to keep an element within a certain range of values. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/clamp
+
 ### AI Collaboration
 
 - What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
